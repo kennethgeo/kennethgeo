@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Kenneth Calderón · Hola, soy Kenneth
 
-<!--
-**kennethgeo/kennethgeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CAD Designer (SME) at **Align Technology** 🦷, and second-year Computer Science student at **UNED** 🇨🇷.
 
-Here are some ideas to get you started:
+Diseñador CAD (Subject Matter Expert) en Align Technology, y estudiante de segundo año de Ingeniería Informática en la UNED.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+
+Python · SQL · Java · Node.js · Power BI
+
+## 🚀 Currently building / Actualmente construyendo
+
+**PassK** — a SaaS platform for digital event management (ticketing, QR check-in, real-time dashboards).
+
+Una plataforma SaaS para la gestión de eventos digitales (tickets, check-in QR, dashboards en tiempo real).
+
+## 🌐 Languages / Idiomas
+
+🇪🇸 Español (native) · 🇬🇧 English (C1) · 🇩🇪 Deutsch (B1)
