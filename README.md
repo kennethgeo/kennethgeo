@@ -1,3 +1,7 @@
+![Kenneth Calderón — GitHub bio card](./Kenneth_GitHub_Bio_Card.png)
+
+---
+
 # 👋 Hi, I'm Kenneth Calderón · Hola, soy Kenneth
 
 CAD Designer (SME) at **Align Technology** 🦷, and second-year Computer Science student at **UNED** 🇨🇷.
